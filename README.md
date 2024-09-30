@@ -30,13 +30,15 @@ I’m seeking a position that will help me grow as a developer, giving me the ch
 ## Hobbies
 When I'm not coding, you'll find me:
 - 🎧 Listening to music
-- 🏃 Enjoying sports
+- 🎮 Gaming (I'm a passionate gamer!)
+- 📺 Watching anime
 - 🐾 Spending time with my **Jack Russell terrier**, who keeps me active!
 - 💻 Exploring new tech trends or gaming.
+- 📚 Diving into sci-fi and fantasy novels.
+
 
 ## Fun Facts
 - ⚡ **Fun Fact**: I'm passionate about animals, especially my dog, and I’m a huge tech enthusiast.
-- 🎵 **Fun Fact**: I love combining my interests in music and tech, and I’m always up for trying new projects related to both.
 
 ## Get in Touch
 - 📬 You can reach me via [LinkedIn](https://www.linkedin.com/) or at **alan@example.com**.
