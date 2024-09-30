@@ -42,4 +42,4 @@ When I'm not coding, you'll find me:
 - ⚡ **Fun Fact**: I'm passionate about animals, especially my dog, and I’m a huge tech enthusiast.
 
 ## Get in Touch
-- 📬 You can reach me via [LinkedIn](https://www.linkedin.com/) or at **alan@example.com**.
+- 📬 You can reach me via [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/alan-d-amario-2147291b9/) or at **alandamario93@gmail.com**.
