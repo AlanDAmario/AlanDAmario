@@ -1,5 +1,5 @@
 # 👋 Welcome to AlanDAmario's GitHub Profile
-<img src="https://raw.githubusercontent.com/AlanDAmario/AlanDAmario/main/Immagine%20WhatsApp%202024-09-30%20ore%2016.21.57_9b16773f.jpg" alt="WhatsApp Image" width="300"/>
+
 
 ## About Me
 Hi! I'm **Alan D'Amario**, a Full Stack Developer Jr. with a passion for crafting responsive, user-friendly applications. I’m always eager to learn and explore the latest technologies.
@@ -41,6 +41,7 @@ When I'm not coding, you'll find me:
 
 ## Fun Facts
 - ⚡ **Fun Fact**: I'm passionate about animals, especially my dog, and I’m a huge tech enthusiast.
+<img src="https://raw.githubusercontent.com/AlanDAmario/AlanDAmario/main/Immagine%20WhatsApp%202024-09-30%20ore%2016.21.57_9b16773f.jpg" alt="WhatsApp Image" width="300"/>
 
 ## Get in Touch
 - 📬 You can reach me via [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/alan-d-amario-2147291b9/) or at **alandamario93@gmail.com**.
