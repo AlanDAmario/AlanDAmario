@@ -1,7 +1,8 @@
 # 👋 Welcome to AlanDAmario's GitHub Profile
 
 ## About Me
-Hi! I'm **Alan D'Amario**, a web developer with a passion for crafting responsive, user-friendly applications. I’m always eager to learn and explore the latest technologies.
+Hi! I'm **Alan D'Amario**, a Full Stack Developer Jr. with a passion for crafting responsive, user-friendly applications. I’m always eager to learn and explore the latest technologies.
+
 
 - 🎓 **Languages & Frameworks**:  
   I’ve gained experience and continue to work with:
