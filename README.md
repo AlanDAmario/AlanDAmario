@@ -44,4 +44,4 @@ When I'm not coding, you'll find me:
 <img src="https://raw.githubusercontent.com/AlanDAmario/AlanDAmario/main/Immagine%20WhatsApp%202024-09-30%20ore%2016.21.57_9b16773f.jpg" alt="WhatsApp Image" width="300"/>
 
 ## Get in Touch
-- 📬 You can reach me via [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/alan-d-amario-2147291b9/) or at **alandamario93@gmail.com**.
+- 📬 You can reach me via [LinkedIn](https://www.linkedin.com/in/alan-d-amario-2147291b9/?trk=opento_sprofile_details) or at **alandamario93@gmail.com**.
