@@ -7,7 +7,8 @@ Hi! I'm **Alan D'Amario**, a Front-End Developer Jr. with a passion for crafting
 
 - 🎓 **Languages & Frameworks**:  
   I’ve gained experience and continue to work with:
-  - **Frontend**: 
+  - **Frontend**:
+  
     ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
     
     ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
