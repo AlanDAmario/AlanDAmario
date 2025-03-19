@@ -27,10 +27,12 @@ Hi! I'm **Alan D'Amario**, a Front-End Developer Jr. with a passion for crafting
     
     ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
     
-  - **Backend**: 
+  - **Backend**:
+    
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
     ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-  - **Database**: 
+  - **Database**:
+    
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🌱 **Learning Journey**: Constantly improving my skills in full-stack development, particularly focusing on frameworks like **Vue.js** and **Laravel**, and exploring more about **modern CSS frameworks** like **Tailwind CSS**.
