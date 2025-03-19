@@ -35,7 +35,7 @@ Hi! I'm **Alan D'Amario**, a Front-End Developer Jr. with a passion for crafting
     
     ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- 🌱 **Learning Journey**: Constantly improving my skills in full-stack development, particularly focusing on frameworks like **Vue.js** and **Laravel**, and exploring more about **modern CSS frameworks** like **Tailwind CSS**.
+- 🌱 **Learning Journey**: Constantly improving my skills in full-stack development, particularly focusing on frameworks like **Angular**, and exploring more about **modern CSS frameworks** like **Tailwind CSS**.
 
 - 💼 **Collaboration**: Open to both solo projects and teamwork. I’m highly motivated and always eager to collaborate with others, learning from peers while contributing my knowledge.
 
